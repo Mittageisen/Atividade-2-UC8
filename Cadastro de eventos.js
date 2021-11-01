@@ -14,7 +14,7 @@ if (idadeMínima < 18) {
 }
 
 let numeroMaximoEventos = 5;
-let numeroEventosEscolhidos;
+let numeroEventosEscolhidos = 3;
 let listaEventos = ("Evento1", "Evento2", "Evento3", "Evento4", "Evento5", "Evento6", "Evento7", "Evento8")
 
 if (numeroEventosEscolhidos <= numeroMaximoEventos) {
